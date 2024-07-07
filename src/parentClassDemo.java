@@ -2,6 +2,10 @@
 public class parentClassDemo {
 	public void audioSystem() {
 		System.out.println("Audio system from parent class");
+		System.out.println("Audio system from parent class1");
+		System.out.println("Audio system from parent class2");
+		System.out.println("Audio system from parent class3");
+		System.out.println("Audio system from parent class4");
 	}
 	
 	String weight  = "5kg";
